@@ -1,4 +1,4 @@
-#  Gemini Chatbot 
+#  RAG Gemini Chatbot 
 
 A RAG-based project using the **`gemini-2.5-pro-exp-03-25`** pretrained LLM to answer questions from custom documents.
 
