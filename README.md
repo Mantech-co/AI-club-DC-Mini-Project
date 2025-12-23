@@ -2,7 +2,7 @@
 RAG PDF implementation 
 
 Brief overview:
-Started the project jrney by learning about vector embedding and different embedding techniques and relevenace ranking
+Started the project journey by learning about vector embedding and different embedding techniques and relevenace ranking
 algorithms. 
 Explored TF-IDF, Glove embedding and BM-25
 
